@@ -1,0 +1,5 @@
+comment = 'bug960:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/bug960'
+relocatable = false
+superuser = false
